@@ -37,8 +37,8 @@ Users should be able to:
 ![](./screenshots/mobile-view-screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/Ig-Matrix/-Frontend-Mentor---3-column-preview-card-component-solution)
+- Live Site URL: [Live site URL](https://ig-matrix.github.io/-Frontend-Mentor---3-column-preview-card-component-solution/)
 
 ## My process
 The process of creating the 3-column preview card component involved several steps. I followed a systematic approach to ensure an organized and efficient workflow. Here's a summary of the process:
